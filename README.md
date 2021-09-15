@@ -1,3 +1,3 @@
 # Juste-Prix
 
-Le jeu "Juste prix" sur console, développé en Python.
+Le jeu "Juste prix" développé en Python.
